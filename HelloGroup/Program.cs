@@ -10,6 +10,9 @@ namespace HelloGroup
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Leon, You're disappointing");
+
+            Console.ReadKey();
         }
     }
 }
